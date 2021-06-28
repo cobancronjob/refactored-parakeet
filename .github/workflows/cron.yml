@@ -1,4 +1,4 @@
 name: Belajar
 on:
   schedule:
-    - cron : "*/3 * * * *"
+    - cron : "*/5 * * * *"
