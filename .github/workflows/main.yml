@@ -1,8 +1,5 @@
 name: Belajar
 on:
-  push:
-     branches:
-       - main
   schedule:
     - cron : '*/5 * * * *'
 jobs:
