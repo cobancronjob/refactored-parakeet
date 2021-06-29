@@ -1,4 +1,0 @@
-name: Belajar
-on:
-  schedule:
-    - cron : "*/5 * * * *"
